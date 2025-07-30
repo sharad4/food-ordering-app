@@ -19,8 +19,8 @@ A modern full-stack food ordering application built with:
 ## 🛠️ Tech Stack
 
 - **Frontend:** React, Tailwind CSS, Axios, React Router
-- **Backend:** (Connect your backend or API)
-- **State Management:** useContext / Redux (if used)
+- **Backend:** Node, Express
+- **State Management:** useContext / Redux
 
 ## 📦 Installation
 
